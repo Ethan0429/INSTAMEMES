@@ -98,9 +98,9 @@ caption_phrases = ['Wowzers', 'thats gonna be a big yikes from me dawg', 'how ya
 'we will enslave the humans eventually', 'my python dont']
 hashtags = '#meme #memes #funny #dankmemes #dank #lol #lmao #dank #funnymemes #memesdaily #dankmeme #f #dankmemes #follow #cringe #like #lmfao #anime #hilarious #autism #comedy #offensivememes #fortnite #filthyfrank #nichememes #offensive #jokes #cancer #l #bhfyp'
 meme_index = ['dankmeme', 'meme', 'bpt']
-meme_and_bpt =list(meme_index[1], meme_index[2])
-dankmeme_bpt=list(meme_index[0], meme_index[2])
-dankmeme_meme = list(meme_index[0], meme_index[1])
+meme_and_bpt = [meme_index[1], meme_index[2]]
+dankmeme_bpt = [meme_index[0], meme_index[2]]
+dankmeme_meme = [meme_index[0], meme_index[1]]
 
 '''--------------------------- Very messy but basically used to write to a .txt file the # of meme that I'm on (ie 1, 2, etc) so the script doesn't repeat post --------------------------------------------------------------------------------------'''
 
