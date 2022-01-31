@@ -1,4 +1,3 @@
-# INSTAMEMES
-Posts lit memes to instagram automatically
+# OUTDATED!
+###  This project is outdated. It has been forked over to https://github.com/Ethan0429/instamemeV2.
 
-Code is INCREDIBLY messy and probably hard to understand for people that aren't me. Sorry :/ HAVE AT IT
